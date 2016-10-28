@@ -1,5 +1,5 @@
 # MET-CS-633-EL-2016-Hello-World
-the purpose if this repository is for eight students to learn basic Git commands by merging nine lines from this poem
+the purpose if this repository is for nine students to learn basic Git commands by merging nine lines from this poem
 
 
 (1) Poem by Anna Akhmatova - The Muse - 1924
